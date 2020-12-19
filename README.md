@@ -1,2 +1,2 @@
-# Transanction_analytics--SQL--pandas-
+# Transanction_analytics-SQL-Pandas
  Analytics of transaction data
